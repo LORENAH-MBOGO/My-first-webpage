@@ -7,4 +7,4 @@ Lorenah Mbogo
 Description of the project's purpose
 A sample website in HTML and CSS.
 
-This project is licensed under the [Lorenah Mbogo] License, 2020
+This project is licensed under the [GNU] License, 2020
